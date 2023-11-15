@@ -21,5 +21,5 @@
 <!-- 个人简介 -->
 - 👋 Hi, I’m @cjqjyy
 - 👀 I’m interest in deep learning, causal reasoning, graph neural network, etc.
-- 🌱 I’m currently a PhD student.
+- 🌱 I’m currently a Ph.D candidate.
 - 📫 How to reach me? Email: cjqjyy@gmail.com
