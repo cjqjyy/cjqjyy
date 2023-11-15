@@ -19,7 +19,7 @@
     <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>-->
+  </div> -->
   
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
