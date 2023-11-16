@@ -13,7 +13,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   
-<p><b>Technology has the power to make the world a better place</b></p>
+<p><b>Technology has the power to make the world a better place.</b></p>
+<p><b>道阻且长，行则将至。</b></p>
 </div>
 
 ## Hi! Nice to meet you!
