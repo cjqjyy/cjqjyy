@@ -21,7 +21,7 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @cjqjyy(集大成者)
+- 👋 Hi, I’m @cjqjyy (集大成者)
 - 👀 I’m interest in deep learning, causal reasoning, graph neural network, etc.
 - 🌱 I’m currently a Ph.D candidate.
 - 📫 How to reach me? Email: cjqjyy@gmail.com
