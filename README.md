@@ -15,12 +15,13 @@
   
 <p><b>Technology has the power to make the world a better place.</b></p>
 <p><b>道阻且长，行则将至。</b></p>
+
 </div>
 
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @cjqjyy
+- 👋 Hi, I’m @cjqjyy(集大成者)
 - 👀 I’m interest in deep learning, causal reasoning, graph neural network, etc.
 - 🌱 I’m currently a Ph.D candidate.
 - 📫 How to reach me? Email: cjqjyy@gmail.com
