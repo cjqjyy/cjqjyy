@@ -15,7 +15,6 @@
 <p><b>Technology has the power to make the world a better place.</b></p>
 <p><b> 路虽弥，不行不至 ——《荀子·修身》</b></p>
 <p><b> 君子生非异也，善假于物也 ——《荀子·劝学》</b></p>
-567
 
 </div>
 
